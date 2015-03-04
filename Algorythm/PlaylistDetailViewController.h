@@ -7,11 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Playlist.h"
 
 @interface PlaylistDetailViewController : UIViewController
 
-@property (weak, nonatomic) IBOutlet UILabel *buttonPressedLabel;
-@property (nonatomic, strong) NSString *segueLabelText;
+@property (nonatomic, strong) Playlist *playlist;
 
 
 @end

@@ -8,12 +8,17 @@
 
 #import "PlaylistDetailViewController.h"
 
+@class Playlist;
+
 @implementation PlaylistDetailViewController
 
 -(void)viewDidLoad
 {
     [super viewDidLoad];
-    self.buttonPressedLabel.text = self.segueLabelText;
+    if (self.playlist) {
+    //    self.buttonPressedLabel.text = self.playlist.playlistTitle;
+        
+    }
 }
 
 @end

@@ -25,7 +25,7 @@ NSString *const kArtists = @"artists";
     if (self) {
         self.library = @[@{kTitle: @"Rise and Shine",
                            kDescription: @"",
-                           kIcon : @"",
+                           kIcon : @"running",
                            kLargeIcon: @"",
                            kBackgroundColor: @{@"red": @255.0, @"green": @204.0, @"blue": @51.0, @"alpha": @1.0},
                            kArtists: @[@"", @"", @"", @"", @"", @"", @"", @"", @"", @""]},
@@ -65,8 +65,7 @@ NSString *const kArtists = @"artists";
                            kBackgroundColor: @{@"red": @255.0, @"green": @204.0, @"blue": @51.0, @"alpha": @1.0},
                            kArtists: @[@"", @"", @"", @"", @"", @"", @"", @"", @"", @""]}
                          ];}
-                         
-        self.library = @[kTitle];
+    
     return self;
 }
 
