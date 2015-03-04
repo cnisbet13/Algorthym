@@ -12,20 +12,24 @@
 	<dict>
 		<key>8F41B4E3B45357F56988EF89B83EB7E9F4DBA817</key>
 		<string>https://github.com/cnisb044/Bill-Splitter.git</string>
+		<key>D6D21D42E7EC809B7D4A2B91EE390A0CD6661AC5</key>
+		<string>https://github.com/cnisbet13/Algorthym.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Algorythm/Algorythm.xcodeproj</string>
+	<string>Algorythm.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>8F41B4E3B45357F56988EF89B83EB7E9F4DBA817</key>
 		<string>../../..</string>
+		<key>D6D21D42E7EC809B7D4A2B91EE390A0CD6661AC5</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/cnisb044/Bill-Splitter.git</string>
+	<string>https://github.com/cnisbet13/Algorthym.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8F41B4E3B45357F56988EF89B83EB7E9F4DBA817</string>
+	<string>D6D21D42E7EC809B7D4A2B91EE390A0CD6661AC5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>8F41B4E3B45357F56988EF89B83EB7E9F4DBA817</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Xcode</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D6D21D42E7EC809B7D4A2B91EE390A0CD6661AC5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Algorythm</string>
 		</dict>
 	</array>
 </dict>

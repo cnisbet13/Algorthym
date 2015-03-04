@@ -17,22 +17,38 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BT0-rX-luk">
-                                <rect key="frame" x="270" y="282" width="60" height="36"/>
+                                <rect key="frame" x="270" y="399" width="60" height="36"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="Button">
-                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
                                     <segue destination="McR-J8-wJd" kind="show" identifier="showPlaylistDetail" id="LyD-Lb-WBe"/>
                                 </connections>
                             </button>
+                            <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="running" translatesAutoresizingMaskIntoConstraints="NO" id="mnF-Uo-ejl">
+                                <rect key="frame" x="200" y="200" width="200" height="200"/>
+                                <color key="backgroundColor" red="1" green="0.80000000000000004" blue="0.20000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="HK4-sX-gl0"/>
+                                    <constraint firstAttribute="height" constant="200" id="YZV-Sl-7Gz"/>
+                                </constraints>
+                            </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.56470588239999997" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstAttribute="centerY" secondItem="mnF-Uo-ejl" secondAttribute="centerY" id="0Iq-DP-QSy"/>
                             <constraint firstAttribute="centerX" secondItem="BT0-rX-luk" secondAttribute="centerX" id="7ea-mI-zRs"/>
-                            <constraint firstAttribute="centerY" secondItem="BT0-rX-luk" secondAttribute="centerY" id="x9C-IW-vxk"/>
+                            <constraint firstAttribute="centerX" secondItem="mnF-Uo-ejl" secondAttribute="centerX" id="QzL-o1-OuK"/>
+                            <constraint firstItem="BT0-rX-luk" firstAttribute="top" secondItem="mnF-Uo-ejl" secondAttribute="bottom" constant="-1" id="kxx-Zt-wdS"/>
+                            <constraint firstAttribute="centerY" secondItem="BT0-rX-luk" secondAttribute="centerY" constant="-117" id="x9C-IW-vxk"/>
                         </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="x9C-IW-vxk"/>
+                            </mask>
+                        </variation>
                     </view>
                     <navigationItem key="navigationItem" title="Playlists" id="XGu-pi-Y3M"/>
                     <connections>
@@ -96,4 +112,7 @@
             <point key="canvasLocation" x="681" y="-383"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="running" width="109" height="97"/>
+    </resources>
 </document>

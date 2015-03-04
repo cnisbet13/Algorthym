@@ -15,6 +15,24 @@
 		963F624A1AA72586006CEBAF /* AlgorythmTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 963F62491AA72586006CEBAF /* AlgorythmTests.m */; };
 		963F62551AA72752006CEBAF /* PlaylistDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 963F62541AA72752006CEBAF /* PlaylistDetailViewController.m */; };
 		963F62581AA72D12006CEBAF /* PlaylistMaster.m in Sources */ = {isa = PBXBuildFile; fileRef = 963F62571AA72D12006CEBAF /* PlaylistMaster.m */; };
+		963F62991AA73185006CEBAF /* ball_large.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F62891AA73185006CEBAF /* ball_large.pdf */; };
+		963F629A1AA73185006CEBAF /* ball.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F628A1AA73185006CEBAF /* ball.pdf */; };
+		963F629B1AA73185006CEBAF /* coffee_large.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F628B1AA73185006CEBAF /* coffee_large.pdf */; };
+		963F629C1AA73185006CEBAF /* coffee.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F628C1AA73185006CEBAF /* coffee.pdf */; };
+		963F629D1AA73185006CEBAF /* helmet_large.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F628D1AA73185006CEBAF /* helmet_large.pdf */; };
+		963F629E1AA73185006CEBAF /* helmet.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F628E1AA73185006CEBAF /* helmet.pdf */; };
+		963F629F1AA73185006CEBAF /* joystick_large.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F628F1AA73185006CEBAF /* joystick_large.pdf */; };
+		963F62A01AA73185006CEBAF /* joystick.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F62901AA73185006CEBAF /* joystick.pdf */; };
+		963F62A11AA73185006CEBAF /* laptop_large.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F62911AA73185006CEBAF /* laptop_large.pdf */; };
+		963F62A21AA73185006CEBAF /* laptop.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F62921AA73185006CEBAF /* laptop.pdf */; };
+		963F62A31AA73185006CEBAF /* Launch Icon.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F62931AA73185006CEBAF /* Launch Icon.pdf */; };
+		963F62A41AA73185006CEBAF /* mockup.png in Resources */ = {isa = PBXBuildFile; fileRef = 963F62941AA73185006CEBAF /* mockup.png */; };
+		963F62A51AA73185006CEBAF /* placeholder.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F62951AA73185006CEBAF /* placeholder.pdf */; };
+		963F62A61AA73185006CEBAF /* running_large.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F62961AA73185006CEBAF /* running_large.pdf */; };
+		963F62A71AA73185006CEBAF /* running.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F62971AA73185006CEBAF /* running.pdf */; };
+		963F62A81AA73185006CEBAF /* Work.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 963F62981AA73185006CEBAF /* Work.pdf */; };
+		963F62AB1AA7330B006CEBAF /* MusicLibrary.m in Sources */ = {isa = PBXBuildFile; fileRef = 963F62AA1AA7330B006CEBAF /* MusicLibrary.m */; };
+		963F62AE1AA736D2006CEBAF /* Playlist.m in Sources */ = {isa = PBXBuildFile; fileRef = 963F62AD1AA736D2006CEBAF /* Playlist.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +61,26 @@
 		963F62541AA72752006CEBAF /* PlaylistDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaylistDetailViewController.m; sourceTree = "<group>"; };
 		963F62561AA72D12006CEBAF /* PlaylistMaster.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaylistMaster.h; sourceTree = "<group>"; };
 		963F62571AA72D12006CEBAF /* PlaylistMaster.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaylistMaster.m; sourceTree = "<group>"; };
+		963F62891AA73185006CEBAF /* ball_large.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ball_large.pdf; sourceTree = "<group>"; };
+		963F628A1AA73185006CEBAF /* ball.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ball.pdf; sourceTree = "<group>"; };
+		963F628B1AA73185006CEBAF /* coffee_large.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = coffee_large.pdf; sourceTree = "<group>"; };
+		963F628C1AA73185006CEBAF /* coffee.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = coffee.pdf; sourceTree = "<group>"; };
+		963F628D1AA73185006CEBAF /* helmet_large.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = helmet_large.pdf; sourceTree = "<group>"; };
+		963F628E1AA73185006CEBAF /* helmet.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = helmet.pdf; sourceTree = "<group>"; };
+		963F628F1AA73185006CEBAF /* joystick_large.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = joystick_large.pdf; sourceTree = "<group>"; };
+		963F62901AA73185006CEBAF /* joystick.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = joystick.pdf; sourceTree = "<group>"; };
+		963F62911AA73185006CEBAF /* laptop_large.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = laptop_large.pdf; sourceTree = "<group>"; };
+		963F62921AA73185006CEBAF /* laptop.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = laptop.pdf; sourceTree = "<group>"; };
+		963F62931AA73185006CEBAF /* Launch Icon.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Launch Icon.pdf"; sourceTree = "<group>"; };
+		963F62941AA73185006CEBAF /* mockup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mockup.png; sourceTree = "<group>"; };
+		963F62951AA73185006CEBAF /* placeholder.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = placeholder.pdf; sourceTree = "<group>"; };
+		963F62961AA73185006CEBAF /* running_large.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = running_large.pdf; sourceTree = "<group>"; };
+		963F62971AA73185006CEBAF /* running.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = running.pdf; sourceTree = "<group>"; };
+		963F62981AA73185006CEBAF /* Work.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Work.pdf; sourceTree = "<group>"; };
+		963F62A91AA7330B006CEBAF /* MusicLibrary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicLibrary.h; sourceTree = "<group>"; };
+		963F62AA1AA7330B006CEBAF /* MusicLibrary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicLibrary.m; sourceTree = "<group>"; };
+		963F62AC1AA736D2006CEBAF /* Playlist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Playlist.h; sourceTree = "<group>"; };
+		963F62AD1AA736D2006CEBAF /* Playlist.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Playlist.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,14 +122,26 @@
 		963F622C1AA72586006CEBAF /* Algorythm */ = {
 			isa = PBXGroup;
 			children = (
-				963F62311AA72586006CEBAF /* AppDelegate.h */,
-				963F62321AA72586006CEBAF /* AppDelegate.m */,
-				963F62561AA72D12006CEBAF /* PlaylistMaster.h */,
-				963F62571AA72D12006CEBAF /* PlaylistMaster.m */,
-				963F62531AA72752006CEBAF /* PlaylistDetailViewController.h */,
-				963F62541AA72752006CEBAF /* PlaylistDetailViewController.m */,
+				963F62B01AA736DD006CEBAF /* View Controllers */,
+				963F62AF1AA736D7006CEBAF /* Data Models */,
 				963F62371AA72586006CEBAF /* Main.storyboard */,
 				963F623A1AA72586006CEBAF /* Images.xcassets */,
+				963F62891AA73185006CEBAF /* ball_large.pdf */,
+				963F628A1AA73185006CEBAF /* ball.pdf */,
+				963F628B1AA73185006CEBAF /* coffee_large.pdf */,
+				963F628C1AA73185006CEBAF /* coffee.pdf */,
+				963F628D1AA73185006CEBAF /* helmet_large.pdf */,
+				963F628E1AA73185006CEBAF /* helmet.pdf */,
+				963F628F1AA73185006CEBAF /* joystick_large.pdf */,
+				963F62901AA73185006CEBAF /* joystick.pdf */,
+				963F62911AA73185006CEBAF /* laptop_large.pdf */,
+				963F62921AA73185006CEBAF /* laptop.pdf */,
+				963F62931AA73185006CEBAF /* Launch Icon.pdf */,
+				963F62941AA73185006CEBAF /* mockup.png */,
+				963F62951AA73185006CEBAF /* placeholder.pdf */,
+				963F62961AA73185006CEBAF /* running_large.pdf */,
+				963F62971AA73185006CEBAF /* running.pdf */,
+				963F62981AA73185006CEBAF /* Work.pdf */,
 				963F623C1AA72586006CEBAF /* LaunchScreen.xib */,
 				963F622D1AA72586006CEBAF /* Supporting Files */,
 			);
@@ -101,6 +151,8 @@
 		963F622D1AA72586006CEBAF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				963F62311AA72586006CEBAF /* AppDelegate.h */,
+				963F62321AA72586006CEBAF /* AppDelegate.m */,
 				963F622E1AA72586006CEBAF /* Info.plist */,
 				963F622F1AA72586006CEBAF /* main.m */,
 			);
@@ -122,6 +174,28 @@
 				963F62481AA72586006CEBAF /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		963F62AF1AA736D7006CEBAF /* Data Models */ = {
+			isa = PBXGroup;
+			children = (
+				963F62A91AA7330B006CEBAF /* MusicLibrary.h */,
+				963F62AA1AA7330B006CEBAF /* MusicLibrary.m */,
+				963F62AC1AA736D2006CEBAF /* Playlist.h */,
+				963F62AD1AA736D2006CEBAF /* Playlist.m */,
+			);
+			name = "Data Models";
+			sourceTree = "<group>";
+		};
+		963F62B01AA736DD006CEBAF /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				963F62561AA72D12006CEBAF /* PlaylistMaster.h */,
+				963F62571AA72D12006CEBAF /* PlaylistMaster.m */,
+				963F62531AA72752006CEBAF /* PlaylistDetailViewController.h */,
+				963F62541AA72752006CEBAF /* PlaylistDetailViewController.m */,
+			);
+			name = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -204,9 +278,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				963F629F1AA73185006CEBAF /* joystick_large.pdf in Resources */,
+				963F629B1AA73185006CEBAF /* coffee_large.pdf in Resources */,
+				963F629D1AA73185006CEBAF /* helmet_large.pdf in Resources */,
+				963F62A61AA73185006CEBAF /* running_large.pdf in Resources */,
+				963F629C1AA73185006CEBAF /* coffee.pdf in Resources */,
 				963F62391AA72586006CEBAF /* Main.storyboard in Resources */,
+				963F62A71AA73185006CEBAF /* running.pdf in Resources */,
+				963F62A81AA73185006CEBAF /* Work.pdf in Resources */,
 				963F623E1AA72586006CEBAF /* LaunchScreen.xib in Resources */,
+				963F62A01AA73185006CEBAF /* joystick.pdf in Resources */,
+				963F62A41AA73185006CEBAF /* mockup.png in Resources */,
 				963F623B1AA72586006CEBAF /* Images.xcassets in Resources */,
+				963F629E1AA73185006CEBAF /* helmet.pdf in Resources */,
+				963F62A51AA73185006CEBAF /* placeholder.pdf in Resources */,
+				963F62991AA73185006CEBAF /* ball_large.pdf in Resources */,
+				963F62A11AA73185006CEBAF /* laptop_large.pdf in Resources */,
+				963F62A31AA73185006CEBAF /* Launch Icon.pdf in Resources */,
+				963F62A21AA73185006CEBAF /* laptop.pdf in Resources */,
+				963F629A1AA73185006CEBAF /* ball.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,9 +315,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				963F62581AA72D12006CEBAF /* PlaylistMaster.m in Sources */,
+				963F62AE1AA736D2006CEBAF /* Playlist.m in Sources */,
 				963F62551AA72752006CEBAF /* PlaylistDetailViewController.m in Sources */,
 				963F62331AA72586006CEBAF /* AppDelegate.m in Sources */,
 				963F62301AA72586006CEBAF /* main.m in Sources */,
+				963F62AB1AA7330B006CEBAF /* MusicLibrary.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
